@@ -1,0 +1,20 @@
+# Copyright 2024. Puppet, Inc., a Perforce company. 
+# 
+# This file can be used to install module dependencies for unit testing
+# See https://github.com/puppetlabs/puppetlabs_spec_helper#using-fixtures for details
+---
+fixtures:
+  repositories:
+    teched_hello_world: 
+      repo: "git@github.com:puppetlabs/teched_hello_world.git"
+      ref: "v0.1.1"
+  forge_modules:
+    apache: 
+      repo: "puppetlabs/apache"
+      ref: "12.0.2"
+    stdlib:
+      repo: "puppetlabs/stdlib"
+      ref: "9.4.1"
+    concat:
+      repo: "puppetlabs/concat"
+      ref: "9.0.2"
