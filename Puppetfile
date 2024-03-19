@@ -2,14 +2,6 @@
 
 forge 'https://forge.puppet.com'
 
-mod 'teched_hello_world',
-    :git => 'git@github.com:puppetlabs/teched_hello_world.git',
-    :ref => 'v0.1.1'
-
-mod 'puppetlabs-apache', '12.0.2'
-mod 'puppetlabs-stdlib', '9.4.1'
-mod 'puppetlabs-concat', '9.0.2'
-
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod 'puppetlabs/inifile', '5.0.1'

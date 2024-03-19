@@ -4,5 +4,4 @@
 # All roles should include the base profile
 class role::webserver {
   include profile::base
-  include profile::hello_world_app
 }

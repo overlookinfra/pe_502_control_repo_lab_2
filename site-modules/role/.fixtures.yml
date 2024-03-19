@@ -2,9 +2,4 @@
 # See https://github.com/puppetlabs/puppetlabs_spec_helper#using-fixtures for details
 ---
 fixtures:
-  symlinks:
-    profile: "#{source_dir}/../profile"
-    teched_hello_world: "#{source_dir}/../profile/spec/fixtures/modules/teched_hello_world"
-    apache: "#{source_dir}/../profile/spec/fixtures/modules/apache"
-    stdlib: "#{source_dir}/../profile/spec/fixtures/modules/stdlib"
-    concat: "#{source_dir}/../profile/spec/fixtures/modules/concat"
+# Include your fixtures here
