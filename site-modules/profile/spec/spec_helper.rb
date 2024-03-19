@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# Copyright 2024. Puppet, Inc., a Perforce company. 
+
 RSpec.configure do |c|
   c.mock_with :rspec
 end
