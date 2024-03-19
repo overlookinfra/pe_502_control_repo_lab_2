@@ -1,7 +1,6 @@
-# Copyright 2024. Puppet, Inc., a Perforce company. 
-# 
 # This file can be used to install module dependencies for unit testing
 # See https://github.com/puppetlabs/puppetlabs_spec_helper#using-fixtures for details
 ---
 fixtures:
-# Include your fixtures here
+  forge_modules:
+#     stdlib: "puppetlabs/stdlib"

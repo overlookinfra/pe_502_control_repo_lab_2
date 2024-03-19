@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-# Copyright 2024. Puppet, Inc., a Perforce company. 
-
 require 'bundler'
 require 'puppet_litmus/rake_tasks' if Gem.loaded_specs.key? 'puppet_litmus'
 require 'puppetlabs_spec_helper/rake_tasks'

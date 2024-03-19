@@ -2,4 +2,5 @@
 # See https://github.com/puppetlabs/puppetlabs_spec_helper#using-fixtures for details
 ---
 fixtures:
-# Include your fixtures here
+  forge_modules:
+#     stdlib: "puppetlabs/stdlib"
