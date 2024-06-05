@@ -3,7 +3,7 @@
 forge 'https://forge.puppet.com'
 
 mod 'teched_hello_world',
-    :git => 'https://github.com/puppetlabs/pe_501_hello_world_lab_2.git',
+    :git => 'https://github.com/puppetlabs/pe_502_hello_world_lab_2.git',
     :branch => 'solution'
 
 mod 'puppetlabs-apache', '12.0.2'
