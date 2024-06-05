@@ -6,6 +6,6 @@
 fixtures:
   repositories:
     teched_hello_world: 
-      repo: "https://github.com/puppetlabs/pe_501_hello_world_lab_2.git"
+      repo: "https://github.com/puppetlabs/pe_502_hello_world_lab_2.git"
       branch: "solution"
 
