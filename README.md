@@ -1,11 +1,15 @@
-# A Puppet Control Repository
-
 
 ---
 
 # DO NOT MERGE!
 
 This branch is for demonstration purposes only. It is not intended to be merged into the main branch.
+
+---
+
+###
+
+# A Puppet Control Repository
 
 # Code Comparison Feature Branch
 
