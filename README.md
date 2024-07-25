@@ -1,5 +1,21 @@
 # A Puppet Control Repository
 
+
+---
+
+# DO NOT MERGE!
+
+This branch is for demonstration purposes only. It is not intended to be merged into the main branch.
+
+# Code Comparison Feature Branch
+
+THIS BRANCH IS FOR DEMONSTRATION PURPOSES ONLY!
+
+This branch provides a Puppet vs RSpec-Puppet code example
+in `site_modules/profile/manifests/server.pp` and
+`site_modules/profile/spec/classes/server_spec.rb`.
+
+
 # PE 502 Starting Point
 
 This control repo supports Lab 2 in the [Puppet Enterprise 502](https://www.puppet.com/support/training) training course.
