@@ -16,8 +16,18 @@ This branch is for demonstration purposes only. It is not intended to be merged 
 THIS BRANCH IS FOR DEMONSTRATION PURPOSES ONLY!
 
 This branch provides a Puppet vs RSpec-Puppet code example
-in `site_modules/profile/manifests/server.pp` and
-`site_modules/profile/spec/classes/server_spec.rb`.
+in the `site_modules/profile` module.
+
+See
+
+    site_modules/profile/manifests/server.pp
+  
+and
+
+    site_modules/profile/spec/classes/server_spec.rb
+
+for the code examples.
+
 
 
 # PE 502 Starting Point
